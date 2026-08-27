@@ -46,21 +46,21 @@
   <tr>
     <td align="center">
       <p><b>FRONTEND</b></p>
-      <img src="https://img.shields.io/badge/TypeScript-D7EF83?style=flat-square&logo=typescript&logoColor=2E3B22" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/React-D7EF83?style=flat-square&logo=react&logoColor=2E3B22" alt="React" />
-      <img src="https://img.shields.io/badge/Next.js-D7EF83?style=flat-square&logo=nextdotjs&logoColor=2E3B22" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <br />
-      <img src="https://img.shields.io/badge/TailwindCSS-D7EF83?style=flat-square&logo=tailwindcss&logoColor=2E3B22" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/Three.js-D7EF83?style=flat-square&logo=threedotjs&logoColor=2E3B22" alt="Three.js" />
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
     </td>
     <td align="center">
       <p><b>AI &amp; BACKEND</b></p>
-      <img src="https://img.shields.io/badge/Node.js-D7EF83?style=flat-square&logo=nodedotjs&logoColor=2E3B22" alt="Node.js" />
-      <img src="https://img.shields.io/badge/OpenAI-D7EF83?style=flat-square&logo=openai&logoColor=2E3B22" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-D7EF83?style=flat-square&logo=vercel&logoColor=2E3B22" alt="Vercel AI SDK" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
       <br />
-      <img src="https://img.shields.io/badge/Prisma-D7EF83?style=flat-square&logo=prisma&logoColor=2E3B22" alt="Prisma" />
-      <img src="https://img.shields.io/badge/PostgreSQL-D7EF83?style=flat-square&logo=postgresql&logoColor=2E3B22" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     </td>
   </tr>
 </table>
@@ -79,3 +79,10 @@
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/gdut4140/gdut4140/output/github-snake.svg" />
   </picture>
 </div>
+
+<!-- ================= Footer Wave ================= -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:D7EF83,100:0D1117&height=100&section=footer&animation=twinkling" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:D7EF83,100:FFFFFF&height=100&section=footer&animation=twinkling" />
+  <img alt="footer wave" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D7EF83,100:FFFFFF&height=100&section=footer&animation=twinkling" />
+</picture>
