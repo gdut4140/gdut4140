@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 100" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="wave" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#D7EF83"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <g id="sparkle">
+      <path d="M0,-7 Q0,0 7,0 Q0,0 0,7 Q0,0 -7,0 Q0,0 0,-7 Z" fill="#FFFFFF"/>
+    </g>
+  </defs>
+  <path fill="url(#wave)" d="M0,40 C 240,10 480,90 720,40 C 960,0 1200,80 1440,40 L 1440,100 L 0,100 Z"/>
+  <use href="#sparkle" x="120"  y="30" opacity="0"><animate attributeName="opacity" values="0;0.9;0" dur="2.2s" begin="0s"  repeatCount="indefinite"/></use>
+  <use href="#sparkle" x="360"  y="58" opacity="0"><animate attributeName="opacity" values="0;0.9;0" dur="2.6s" begin="0.4s" repeatCount="indefinite"/></use>
+  <use href="#sparkle" x="620"  y="34" opacity="0"><animate attributeName="opacity" values="0;0.9;0" dur="2.0s" begin="0.8s" repeatCount="indefinite"/></use>
+  <use href="#sparkle" x="860"  y="28" opacity="0"><animate attributeName="opacity" values="0;0.9;0" dur="2.4s" begin="1.1s" repeatCount="indefinite"/></use>
+  <use href="#sparkle" x="1080" y="56" opacity="0"><animate attributeName="opacity" values="0;0.9;0" dur="2.1s" begin="0.2s" repeatCount="indefinite"/></use>
+  <use href="#sparkle" x="1330" y="42" opacity="0"><animate attributeName="opacity" values="0;0.9;0" dur="2.5s" begin="0.6s" repeatCount="indefinite"/></use>
+</svg>

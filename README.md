@@ -82,7 +82,7 @@
 
 <!-- ================= Footer Wave ================= -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:D7EF83,100:0D1117&height=100&section=footer&animation=twinkling" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:D7EF83,100:FFFFFF&height=100&section=footer&animation=twinkling" />
-  <img alt="footer wave" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D7EF83,100:FFFFFF&height=100&section=footer&animation=twinkling" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdut4140/gdut4140/main/assets/wave-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gdut4140/gdut4140/main/assets/wave.svg" />
+  <img alt="footer wave" width="100%" src="https://raw.githubusercontent.com/gdut4140/gdut4140/main/assets/wave.svg" />
 </picture>
