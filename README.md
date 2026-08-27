@@ -1,149 +1,81 @@
+<!--
+  GitHub Profile README · gdut4140
+  Theme: #d7ef83 (lime) — 浅色设计，无 emoji、无深色块。改配色搜 "D7EF83" 替换即可。
+-->
+
 <div align="center">
 
-  <!-- 动态打字效果标题 -->
+  <!-- 动态打字效果标题（保留） -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&pause=1000&color=D7EF83&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+gdut4140+%F0%9F%91%8B;%E5%B9%BF%E4%B8%9C%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%20%C2%B7%20GDUT;Frontend+Developer+%26+Agent+Enthusiast;Always+building+something+cool+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&pause=1000&color=D7EF83&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+gdut4140;Learning+Frontend+and+AI+Agent" alt="Typing SVG" />
   </a>
 
   <br />
 
-  <!-- 副标题：引用徽章风格 -->
-  <p>
-    <img alt="Status" src="https://img.shields.io/badge/Status-Building%20the%20future-%23d7ef83?style=flat-square&logo=v&logoColor=black" />
-    <img alt="Focus" src="https://img.shields.io/badge/Focus-Frontend%20%26%20AI%20Agent-3670A0?style=flat-square" />
-    <img alt="University" src="https://img.shields.io/badge/GDUT-%E5%B9%BF%E4%B8%9C%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6-%23c4a476?style=flat-square" />
+  <p align="center">
+    <span style="display:inline-block;background-color:#EFF6DA;border:1px solid #D7EF83;color:#39461F;font-size:13px;font-weight:600;padding:5px 16px;border-radius:999px;">Frontend &amp; AI Agent Developer</span>
   </p>
 
 </div>
 
----
+<!-- ================= About ================= -->
+<p align="center" style="margin-top:44px;">
+  <span style="display:inline-block;background-color:#D7EF83;color:#2B3A12;font-size:13px;font-weight:700;letter-spacing:2px;padding:7px 22px;border-radius:999px;">ABOUT ME</span>
+</p>
 
-## 👨‍💻 About Me
+<table align="center" style="border-collapse:separate;">
+  <tr>
+    <td style="background-color:#F8FBE9;border:1px solid #D7EF83;border-radius:16px;padding:26px 30px;">
+      <p style="color:#39461F;font-size:15px;line-height:1.75;margin:0;">
+        I'm a <b style="color:#6A9418;">Computer Science</b> student at
+        <b style="color:#6A9418;">Guangdong University of Technology</b> —
+        a builder who sweats the details. I spend my time crafting
+        <b style="color:#6A9418;">frontend experiences</b> that feel fast and alive,
+        and wiring <b style="color:#6A9418;">AI agents</b> that reliably get real work done.
+      </p>
+    </td>
+  </tr>
+</table>
 
-I'm a student at **Guangdong University of Technology (GDUT)**, majoring in Computer Science. I'm currently deeply invested in **Frontend Development** and exploring the rapidly-evolving world of **AI Agent Development**. I love building aesthetic, performant, and meaningful web experiences.
+<!-- ================= Tech Stack ================= -->
+<p align="center" style="margin-top:44px;">
+  <span style="display:inline-block;background-color:#D7EF83;color:#2B3A12;font-size:13px;font-weight:700;letter-spacing:2px;padding:7px 22px;border-radius:999px;">TECH STACK</span>
+</p>
 
-- 🎓 **Education** — Undergraduate at GDUT
-- 🌱 **Currently Learning** — Frontend Engineering · AI Agent Architecture · LLM App Design
-- 🎯 **Philosophy** — Ship fast, polish relentlessly, and let details shine.
-- 💬 **What I enjoy** — Pixel-perfect UI design, buttery-smooth animations, and building agents that actually help people.
+<table align="center" style="border-collapse:separate;border-spacing:16px;">
+  <tr>
+    <td align="center" style="background-color:#F8FBE9;border:1px solid #D7EF83;border-radius:16px;padding:22px 24px;">
+      <p style="color:#6A9418;font-size:12px;font-weight:700;letter-spacing:2px;margin:0 0 14px 0;">FRONTEND</p>
+      <img src="https://img.shields.io/badge/TypeScript-D7EF83?style=flat-square&logo=typescript&logoColor=2E3B22" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/React-D7EF83?style=flat-square&logo=react&logoColor=2E3B22" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-D7EF83?style=flat-square&logo=nextdotjs&logoColor=2E3B22" alt="Next.js" />
+      <br />
+      <img src="https://img.shields.io/badge/TailwindCSS-D7EF83?style=flat-square&logo=tailwindcss&logoColor=2E3B22" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Three.js-D7EF83?style=flat-square&logo=threedotjs&logoColor=2E3B22" alt="Three.js" />
+    </td>
+    <td align="center" style="background-color:#F8FBE9;border:1px solid #D7EF83;border-radius:16px;padding:22px 24px;">
+      <p style="color:#6A9418;font-size:12px;font-weight:700;letter-spacing:2px;margin:0 0 14px 0;">AI &amp; BACKEND</p>
+      <img src="https://img.shields.io/badge/Node.js-D7EF83?style=flat-square&logo=nodedotjs&logoColor=2E3B22" alt="Node.js" />
+      <img src="https://img.shields.io/badge/OpenAI-D7EF83?style=flat-square&logo=openai&logoColor=2E3B22" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-D7EF83?style=flat-square&logo=vercel&logoColor=2E3B22" alt="Vercel AI SDK" />
+      <br />
+      <img src="https://img.shields.io/badge/Prisma-D7EF83?style=flat-square&logo=prisma&logoColor=2E3B22" alt="Prisma" />
+      <img src="https://img.shields.io/badge/PostgreSQL-D7EF83?style=flat-square&logo=postgresql&logoColor=2E3B22" alt="PostgreSQL" />
+    </td>
+  </tr>
+</table>
 
----
 
-## 🛠️ Tech Stack
 
-<details open>
-<summary><b>💻 Core Development</b></summary>
-<br />
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🎨 UI & Styling</b></summary>
-<br />
-
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-
-</details>
-
-<details open>
-<summary><b>🤖 AI & Agent Stack</b></summary>
-<br />
-
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&badgeColor=010101&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Backend & Database</b></summary>
-<br />
-
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=auth0&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🧩 Libraries & Frameworks</b></summary>
-<br />
-
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Milkdown](https://img.shields.io/badge/Milkdown-FFEEDD?style=for-the-badge&logo=markdown&logoColor=black)
-![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Next.js Themes](https://img.shields.io/badge/next--themes-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>⚙️ Dev Tools</b></summary>
-<br />
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Turbopack](https://img.shields.io/badge/Turbopack-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![tsx](https://img.shields.io/badge/tsx-3178C6?style=for-the-badge&logo=tsnode&logoColor=white)
-
-</details>
-
----
-
-## 📊 Some Stats
+<!-- ================= Snake ================= -->
+<p align="center" style="margin-top:44px;">
+  <span style="display:inline-block;background-color:#D7EF83;color:#2B3A12;font-size:13px;font-weight:700;letter-spacing:2px;padding:7px 22px;border-radius:999px;">MY CONTRIBUTION</span>
+</p>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" width="48%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gdut4140&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=d7ef83&icon_color=d7ef83&text_color=e6e6e6&bg_color=0d0d0d&border_color=2b2b2b&hide_border=false" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" width="48%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdut4140&layout=compact&theme=transparent&title_color=d7ef83&text_color=e6e6e6&bg_color=0d0d0d&border_color=2b2b2b&hide_border=false&langs_count=8" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img width="80%" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gdut4140&theme=transparent&title_color=d7ef83&icon_color=d7ef83&text_color=e6e6e6&background=0d0d0d&border=2b2b2b&ring=d7ef83&fire=d7ef83&currStreakLabel=d7ef83" />
-  </a>
-</div>
-
----
-
-## 🏷️ This Week — What I'm Working On
-
-<!-- GitHub Readme Activity Graph -->
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gdut4140&theme=github-compact&bg_color=0d0d0d&color=d7ef83&line=d7ef83&point=c4a476&area=true&area_color=d7ef83&hide_border=true" />
-</a>
-
----
-
-## 🐍 Snake Eating My Contributions
-
-<!-- 贪吃蛇贡献图效果 -->
-![snake gif](https://raw.githubusercontent.com/gdut4140/gdut4140/output/github-snake.svg)
-
----
-
-<div align="center">
-  <i>Profile generated with 🤍 · Thanks for stopping by!</i>
-  <br />
-  <br />
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=gdut4140&label=Views&color=0&icon=0&pretty=true" alt="Visitors" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdut4140/gdut4140/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gdut4140/gdut4140/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/gdut4140/gdut4140/output/github-snake.svg" />
+  </picture>
 </div>
