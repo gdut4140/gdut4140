@@ -68,6 +68,39 @@
 <br />
 <br />
 
+<!-- ================= Open Source ================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-OPEN%20SOURCE-D7EF83?style=flat-square" alt="OPEN SOURCE" />
+</p>
+
+<p align="center">
+  Contributor to high-star open source projects.
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <p><b><a href="https://github.com/career-ops-hq/career-ops">career-ops</a></b></p>
+      <a href="https://github.com/career-ops-hq/career-ops">
+        <img src="https://img.shields.io/github/stars/career-ops-hq/career-ops?style=flat-square&label=stars&color=D7EF83&labelColor=333333&logo=github&logoColor=white" alt="career-ops stars" />
+      </a>
+      <br />
+      <sub><b>Contributor</b></sub>
+    </td>
+    <td align="center">
+      <p><b><a href="https://github.com/CopilotKit/CopilotKit">CopilotKit</a></b></p>
+      <a href="https://github.com/CopilotKit/CopilotKit">
+        <img src="https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=flat-square&label=stars&color=D7EF83&labelColor=333333&logo=github&logoColor=white" alt="CopilotKit stars" />
+      </a>
+      <br />
+      <sub><b>Contributor</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+<br />
+
 <!-- ================= Snake ================= -->
 <p align="center">
   <img src="https://img.shields.io/badge/-MY%20CONTRIBUTION-D7EF83?style=flat-square" alt="MY CONTRIBUTION" />
