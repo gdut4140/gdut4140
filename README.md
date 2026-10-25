@@ -80,6 +80,14 @@
 <table align="center">
   <tr>
     <td align="center">
+      <p><b><a href="https://github.com/bytedance/deer-flow">DeerFlow</a></b></p>
+      <a href="https://github.com/bytedance/deer-flow">
+        <img src="https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&label=stars&color=D7EF83&labelColor=333333&logo=github&logoColor=white" alt="DeerFlow stars" />
+      </a>
+      <br />
+      <sub><b>Contributor</b></sub>
+    </td>
+    <td align="center">
       <p><b><a href="https://github.com/career-ops-hq/career-ops">career-ops</a></b></p>
       <a href="https://github.com/career-ops-hq/career-ops">
         <img src="https://img.shields.io/github/stars/career-ops-hq/career-ops?style=flat-square&label=stars&color=D7EF83&labelColor=333333&logo=github&logoColor=white" alt="career-ops stars" />
@@ -94,14 +102,6 @@
       </a>
       <br />
       <sub><b>Contributor</b></sub>
-    </td>
-    <td align="center">
-      <p><b><a href="https://github.com/bytedance/deer-flow">DeerFlow</a></b></p>
-      <a href="https://github.com/bytedance/deer-flow">
-        <img src="https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&label=stars&color=D7EF83&labelColor=333333&logo=github&logoColor=white" alt="DeerFlow stars" />
-      </a>
-      <br />
-      <sub><b>Contributor</b> · 2 PRs merged</sub>
     </td>
   </tr>
 </table>
