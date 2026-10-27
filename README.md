@@ -103,6 +103,14 @@
       <br />
       <sub><b>Contributor</b></sub>
     </td>
+    <td align="center">
+      <p><b><a href="https://github.com/CopilotKit/CopilotKit">CopilotKit</a></b></p>
+      <a href="https://github.com/CopilotKit/CopilotKit">
+        <img src="https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=flat-square&label=stars&color=D7EF83&labelColor=333333&logo=github&logoColor=white" alt="CopilotKit stars" />
+      </a>
+      <br />
+      <sub><b>Contributor</b></sub>
+    </td>
   </tr>
 </table>
 
